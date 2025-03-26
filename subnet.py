@@ -44,22 +44,22 @@ p7First = '29.32.6.1'
 p7Last = '29.32.6.14'
 
 #problem 8
-p8Network = ''
-p8Broadcast = ''
-p8First = ''
-p8Last = ''
+p8Network = '196.17.224.0'
+p8Broadcast = '196.17.224.127'
+p8First = '196.17.224.1'
+p8Last = '196.17.224.126'
 
 #problem 9
-p9Network = ''
-p9Broadcast = ''
-p9First = ''
-p9Last = ''
+p9Network = '107.2.186.88'
+p9Broadcast = '107.2.186.95'
+p9First = '107.2.186.89'
+p9Last = '107.2.186.94'
 
 #problem 10
-p10Network = ''
-p10Broadcast = ''
-p10First = ''
-p10Last = ''
+p10Network = '18.243.147.128'
+p10Broadcast = '18.243.147.191'
+p10First = '18.243.147.129'
+p10Last = '18.243.147.190'
 
 
 """

@@ -15,9 +15,9 @@ p2Last = '218.106.197.54'
 
 #problem 3
 p3Network = '129.91.159.64'
-p3Broadcast = '129.91.159.124'
+p3Broadcast = '129.91.159.127'
 p3First = '129.91.159.65'
-p3Last = '129.91.159.123'
+p3Last = '129.91.159.126'
 
 #problem 4
 p4Network = '40.76.121.0'

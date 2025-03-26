@@ -2,10 +2,10 @@
 uniquecode = 
 
 #problem 1
-p1Network = ''
-p1Broadcast = ''
-p1First = ''
-p1Last =  ''
+p1Network = '40.76.121.134'
+p1Broadcast = '40.76.121.127'
+p1First = '40.76.121.135'
+p1Last =  '40.76.121.126'
 
 #problem 2
 p2Network = ''
@@ -20,10 +20,10 @@ p3First = ''
 p3Last = ''
 
 #problem 4
-p4Network = ''
-p4Broadcast = ''
-p4First = ''
-p4Last = ''
+p4Network = '40.76.121.0'
+p4Broadcast = '40.76.121.255'
+p4First = '40.76.121.135'
+p4Last = '40.76.121.254'
 
 #problem 5
 p5Network = ''

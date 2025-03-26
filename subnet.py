@@ -3,9 +3,9 @@ uniquecode = 19861
 
 #problem 1
 p1Network = '51.121.236.0'
-p1Broadcast = '51.121.236.0'
+p1Broadcast = '51.121.236.127'
 p1First = '51.121.236.1'
-p1Last =  '51.121.236.255'
+p1Last =  '51.121.236.126'
 
 #problem 2
 p2Network = ''

@@ -2,10 +2,10 @@
 uniquecode = 19861
 
 #problem 1
-p1Network = '40.76.121.134'
-p1Broadcast = '40.76.121.127'
-p1First = '40.76.121.135'
-p1Last =  '40.76.121.126'
+p1Network = '51.121.236.0'
+p1Broadcast = '51.121.236.0'
+p1First = '51.121.236.1'
+p1Last =  '51.121.236.255'
 
 #problem 2
 p2Network = ''
